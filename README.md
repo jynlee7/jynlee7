@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/jynlee7">
-    <img src="https://readme-typing-svg.demolab.com?font=Didot&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jayden+Lee;High+School+Student+;AI+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Didot&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jayden+Lee;High+School+Student+;AI+%7C+Machine+Learning" alt="Typing SVG" />
 </a>
 <br/>
 </p>
