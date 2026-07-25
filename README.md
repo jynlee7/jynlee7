@@ -3,7 +3,6 @@
 | Project | Type | Context |
 |---------|------|---------|
 | Personal Website | Personal Website/Blog | [Blog](https://github.com/jynlee7/jynlee7.github.io) |
-| [Trellis](https://trellis-alpha.vercel.app/) | Tech News Curator | Personal |
 | [building-myself](https://github.com/jynlee7/building-myself) | Myself in LLM | Personal |
 | resu | Resume ATS Checker | Personal |
 | notjfy | Job Application Nofifier | Personal |
