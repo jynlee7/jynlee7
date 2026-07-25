@@ -2,7 +2,8 @@
 
 | Project | Type | Context |
 |---------|------|---------|
-| Personal Website | Personal Website/Blog | [Blog](https://github.com/jynlee7/jynlee7.github.io) |
+| Personal Website | Personal | [Website]() |
+| Project Blog | Personal | [Blog](https://github.com/jynlee7/jynlee7.github.io) |
 | [building-myself](https://github.com/jynlee7/building-myself) | Myself in LLM | Personal |
 | resu | Resume ATS Checker | Personal |
 | notjfy | Job Application Nofifier | Personal |
