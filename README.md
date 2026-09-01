@@ -5,8 +5,7 @@
 | Personal Website | Personal | [Website](https://jaydenelee.com) |
 | Project Blog | Personal | [Blog](https://github.com/jynlee7/jynlee7.github.io) |
 | [building-myself](https://github.com/jynlee7/building-myself) | Myself in LLM | Personal |
-| resu | Resume ATS Checker | Personal |
-| notjfy | Job Application Nofifier | Personal |
+| jayden-skills | Personal Claude Skills | Personal |
 | Wordnet | NGrams | [CS61B](https://sp26.datastructur.es/proj4/) |
 
 
